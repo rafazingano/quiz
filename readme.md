@@ -1,3 +1,10 @@
+## Para rodar o quiz
+<p>Temos baixar o core do laravel, para isso basta utilizar o comando "composer install" e logo em seguida o comando "Composer update"</p>
+<p>Renomeie o arquivo .env.example para .env e na sequencia rode o comando "php artisan key:generate"</p>
+<p>Ainda no prompt rode o comando "php artisan serve" e acesse a aplicação pelo endereço http://localhost:8000</p>
+<p>Utilizei o Laravel, Jquery e Bootstrap para desenvolver</p>
+
+<hr/>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
